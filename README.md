@@ -11,3 +11,6 @@ Setup the following
 4. npm install uuid
 
 5. npm install bootstrap
+
+
+atlast run the app using npm start
